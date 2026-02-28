@@ -8,9 +8,9 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.wewatch.ui.screen.AddScreen
-import com.example.wewatch.ui.screen.MainScreen
-import com.example.wewatch.ui.screen.SearchScreen
+import com.example.wewatch.ui.screens.AddScreen
+import com.example.wewatch.ui.screens.MainScreen
+import com.example.wewatch.ui.screens.SearchScreen
 import com.example.wewatch.ui.theme.WeWatchTheme
 import com.example.wewatch.viewmodel.SearchViewModel
 
