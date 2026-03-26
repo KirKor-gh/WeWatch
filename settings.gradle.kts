@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WeWatch"
+rootProject.name = "MovieApp"
 include(":app")
+ 
